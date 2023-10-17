@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+This Task is done for WEC DEVELOPMENT SIG recruitment 2023.
+In This project i want to develop a Dapp for minting-NFT's & implementing with Forntend.
+These are the tasks given:
+*Mint a collection of your favourite television characters. Find images of your favorite television characters 
+and deploy a smart contract that will mint an NFT for each character.
+*Set a maximum limit of 3000 NFTs for your collection.
+*Implement functionality to allow the owner of an NFT to change its image.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+In this task i done creating and deploying an ERC-721 smart contract on the Sepolia test network using Solidity programming language,
+Metamask wallet, Hardhat, Pinata IPFS provider and Alchemy.
+i want to complete the further tasks 
+
